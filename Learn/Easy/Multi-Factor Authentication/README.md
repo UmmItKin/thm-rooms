@@ -3,6 +3,11 @@
 |---|---:|---:|---:|
 | UmmIt Kin | 2025-10-22T19:00:00 | 2025-10-22T19:20:22 | ~25 mins |
 
+
+### Task 1-6
+
+Too lazy to write, too easy LOL
+
 ### Task 7: Practical - Beating the Auto-Logout Feature
 
 Paste the code where the thm room already provided.
