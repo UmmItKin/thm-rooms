@@ -1,6 +1,7 @@
 ## TryHackMe - Multi-Factor Authentication
-
-Completed by: UmmIt Kin
+| Completed by | Date started | Date finished | Time spent solving |
+|---|---:|---:|---:|
+| UmmIt Kin | 2025-10-22T19:00:00 | 2025-10-22T19:20:22 | ~25 mins |
 
 ### Task 7: Practical - Beating the Auto-Logout Feature
 
